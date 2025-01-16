@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+
+# Credentials and Tokens
+credentials.json
+token.pickle
+
+# Virtual Environment
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE Configurations
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Others
+*.swp
+*.bak
+*.tmp
+
